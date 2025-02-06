@@ -90,7 +90,7 @@
         </strong>
     </h3>
     <img 
-        src="https://skillicons.dev/icons?theme=dark&perline=10&i=git,github,gitlab,githubactions,nodejs,vite,html,css,sass,tailwind,js,ts,react,redux,java,c,cpp,py,firebase,mongodb,mysql,postman,netlify,vercel,figma,materialui,aws,bootstrap,gcp,md,php,replit,stackoverflow,vite,discord,cloudflare,"
+        src="https://skillicons.dev/icons?i=vscode,git,github,c,bun,bootstrap,bash,css,cloudflare,js,mongodb,npm,notion,nodejs,nextjs,md,php,pug,py,react,redux,materialui,html,discord,bots,discordjs,express,java,mysql,netlify,postman,powershell,sass,stackoverflow,selenium,tailwind,ts,vercel,visualstudio,vite,webpack,yarn&center=true&perline=10"
         alt="skills logos" 
     />
     <h2></h2>
@@ -110,7 +110,7 @@
         </strong>
     </h3>
     <img 
-        src="https://skillicons.dev/icons?theme=dark&perline=10&i=remix,azure,dart,django,dynamodb,flask,flutter,gatsby,heroku,jenkins,jest,kotlin,jquery,linux,laravel,latex,maven,nestjs,nginx,nuxtjs,perl,ps,powershell,prisma,pug,pytorch,rust,svelte,sequelize,swift,tensorflow,unity,unreal,vitest,vue,vscode,webpack,wordpress,workers,xd,bots,dotnet,supabase,rollupjs"
+        src="https://skillicons.dev/icons?i=workers,vue,webstorm,vscodium,vitest,unreal,unity,threejs,svg,tensorflow,supabase,spring,rollupjs,replit,remix,redis,r,pytorch,planetscale,pnpm,postgres,nuxtjs,obsidian,maven,lua,kotlin,graphql,gradle,gmail,gitlab,githubactions,gcp,firebase,figma,electron,dynamodb,codepen,cassandra,blender,bitbucket,azure,aws,angular,androidstudio,ps,ai,ae,au,pr,xd,dart,django,appwrite,wordpress,swift,styledcomponents,ruby,rust,robloxstudio,rails,prisma,nginx,jquery,jest,go,dotnet,gatsby&center=true&perline=10"
         alt="skills planning to learn logos"
     />
 </div>
