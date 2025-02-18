@@ -1,3 +1,4 @@
+<img src="./assets/banner.gif" align="middle" alt="Banner" width="100%"/>
 <!-- <img src="./assets/pixel-night-banner.gif" align="middle" alt="Banner" width="100%"/> -->
 
 <img src="./assets/borderseparator.gif" width="100%"/>
@@ -189,6 +190,51 @@
         />
     </h2>
     <a 
+        href="https://github.com/MeetBhingradiya/Portfolio" target="_blank"
+    >
+        <img 
+            src="https://github-readme-stats.vercel.app/api/pin/?username=MeetBhingradiya&theme=radical&repo=Portfolio"
+            width="49%" 
+            alt="Portfolio" 
+        />
+    </a>
+    <a 
+        href="https://github.com/MeetBhingradiya/Portfolio-Calculator" target="_blank"
+    >
+        <img 
+            src="https://github-readme-stats.vercel.app/api/pin/?username=MeetBhingradiya&theme=radical&repo=Portfolio-Calculator"
+            width="49%" 
+            alt="Portfolio Calculator" 
+        />
+    </a>
+    <a 
+        href="https://github.com/MeetBhingradiya/Portfolio-NewsApp" target="_blank"
+    >
+        <img 
+            src="https://github-readme-stats.vercel.app/api/pin/?username=MeetBhingradiya&theme=radical&repo=Portfolio-NewsApp"
+            width="49%" 
+            alt="Portfolio NewsApp" 
+        />
+    </a>
+    <a 
+        href="https://github.com/MeetBhingradiya/ppsu-student-erp" target="_blank"
+    >
+        <img 
+            src="https://github-readme-stats.vercel.app/api/pin/?username=MeetBhingradiya&theme=radical&repo=ppsu-student-erp"
+            width="49%" 
+            alt="ppsu-student-erp" 
+        />
+    </a>
+    <a 
+        href="https://github.com/MeetBhingradiya/express-router-plugin" target="_blank"
+    >
+        <img 
+            src="https://github-readme-stats.vercel.app/api/pin/?username=MeetBhingradiya&theme=radical&repo=express-router-plugin"
+            width="49%" 
+            alt="express-router-plugin" 
+        />
+    </a>
+    <a 
         href="https://github.com/MeetBhingradiya/EmbroideryFileConverter" target="_blank"
     >
         <img 
@@ -197,6 +243,52 @@
             alt="Embroidery Files Converter" 
         />
     </a>
+    <a 
+        href="https://github.com/MeetBhingradiya/TStoMP4" target="_blank"
+    >
+        <img 
+            src="https://github-readme-stats.vercel.app/api/pin/?username=MeetBhingradiya&theme=radical&repo=TStoMP4"
+            width="49%" 
+            alt="TS to MP4" 
+        />
+    </a>
+    <a 
+        href="https://github.com/MeetBhingradiya/MarkdownToPDF" target="_blank"
+    >
+        <img 
+            src="https://github-readme-stats.vercel.app/api/pin/?username=MeetBhingradiya&theme=radical&repo=MarkdownToPDF"
+            width="49%" 
+            alt="Markdown To PDF" 
+        />
+    </a>
+    <a 
+        href="https://github.com/MeetBhingradiya/vite-ssr-with-react-router-dom" target="_blank"
+    >
+        <img 
+            src="https://github-readme-stats.vercel.app/api/pin/?username=MeetBhingradiya&theme=radical&repo=vite-ssr-with-react-router-dom"
+            width="49%" 
+            alt="vite-ssr-with-react-router-dom" 
+        />
+    </a>
+    <a 
+        href="https://github.com/MeetBhingradiya/Rewards-BOT-Toolkit" target="_blank"
+    >
+        <img 
+            src="https://github-readme-stats.vercel.app/api/pin/?username=MeetBhingradiya&theme=radical&repo=Rewards-BOT-Toolkit"
+            width="49%" 
+            alt="Rewards-BOT-Toolkit" 
+        />
+    </a>
+    <a 
+        href="https://github.com/Dhruvbagadiya/Valora" target="_blank"
+    >
+        <img 
+            src="https://github-readme-stats.vercel.app/api/pin/?username=Meetbhingradiya&theme=radical&repo=Valora"
+            width="49%" 
+            alt="Valora Infotech" 
+        />
+    </a>
+
 </div>
 
 <h2></h2>
@@ -219,7 +311,7 @@
         />
     </a>
     <a 
-        href="https://www.instagram.com/_meet_bhingradiya_/" 
+        href="https://www.instagram.com/meetbhingradiya_/" 
         target="_blank">
         <img 
             src="./assets/logos/neon-instagram.png" 
@@ -228,7 +320,7 @@
         />
     </a>
     <a 
-        href="https://www.linkedin.com/in/meetbhingradiya/" 
+        href="https://www.linkedin.com/in/meet-bhingradiya/" 
         target="_blank"
     >
         <img 
