@@ -168,7 +168,7 @@
 
 <div align="center">
     <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=meetbhingradiya&custom_title=Meet Bhingradiya's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true&hide_border=true"
+        src="https://activitygraph.meetbhingradiya.tech/graph?username=meetbhingradiya&custom_title=Meet Bhingradiya's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true&hide_border=true"
         alt="Meet Bhingradiya's Github Activity Graph" 
         width="100%"
     />
