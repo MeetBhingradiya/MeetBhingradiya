@@ -1,35 +1,28 @@
 <img src="./assets/banner.gif" align="middle" alt="Banner" width="100%"/>
 <!-- <img src="./assets/pixel-night-banner.gif" align="middle" alt="Banner" width="100%"/> -->
 
-<img src="./assets/borderseparator.gif" width="100%"/>
+<!--<img src="./assets/borderseparator.gif" width="100%"/>
 
-<div align="center">
-    <!-- <img 
+ <div align="center">
+    <img 
         src="./assets/animated-flame-01.gif" 
         width="1.75%" 
         align="left" 
-    /> -->
+    /> 
     <img 
         src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Meet+and+Welcome+to+my+Profile!"
         alt="Hey, I'm Meet and Welcome to my Profile! animated typed out" 
         width="90%" 
         align="middle" 
     />
-    <!-- <img 
+     <img 
         src="./assets/animated-flame-01.gif" 
         width="1.75%"
         align="right" 
-    /> -->
-</div>
+    />
+ </div> -->
 
 <img src="./assets/borderseparator.gif" width="100%" />
-
-<div align="center">
-    <p><b>Profile Views</b></p>
-    <img 
-        src="https://profile-counter.glitch.me/MeetBhingradiya/count.svg" 
-    />
-</div>
 
 <!-- <img 
     align="right" 
@@ -151,28 +144,31 @@
             src="./assets/borderseparator.gif" 
         />
     </h2>
+    <div align="center">
+        <img  src="https://profile-counter.glitch.me/MeetBhingradiya/count.svg" />
+    </div>
     <br>
     <img 
-        src="https://github-profile-trophy.vercel.app/?username=meetbhingradiya&theme=radical&no-frame=true&no-bg=true&row=1&column=7"
-        width="100%" 
+        src="https://github-profile-trophy.vercel.app/?username=meetbhingradiya&theme=radical&no-frame=true&no-bg=true&row=1&column=7&"
+        width="100%"
         alt="Trophy" 
         align="middle" 
     />
     <h2></h2>
     <img 
-        src="https://streak-stats.demolab.com?user=meetbhingradiya&theme=radical" width="49%"
+        src="https://streak-stats.demolab.com?user=meetbhingradiya&theme=radical&hide_border=true&stroke=141321" width="50%"
         alt="streaks graph" 
     />
     <img 
-        src="https://github-readme-stats.vercel.app/api?username=meetbhingradiya&theme=radical&show_icons=true&count_private=true"
-        width="49%" 
+        src="https://github-readme-stats.vercel.app/api?username=meetbhingradiya&theme=radical&show_icons=true&count_private=true&hide_border=true"
+        width="47%" 
         alt="stats graph" 
     />
 </div>
 
 <div align="center">
     <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=meetbhingradiya&custom_title=meetbhingradiya's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=meetbhingradiya&custom_title=Meet Bhingradiya's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true&hide_border=true"
         alt="Meet Bhingradiya's Github Activity Graph" 
         width="100%"
     />
@@ -194,7 +190,8 @@
     >
         <img 
             src="https://github-readme-stats.vercel.app/api/pin/?username=MeetBhingradiya&theme=radical&repo=Portfolio"
-            width="49%" 
+            width="49%"
+            height="100%"
             alt="Portfolio" 
         />
     </a>
@@ -204,6 +201,7 @@
         <img 
             src="https://github-readme-stats.vercel.app/api/pin/?username=MeetBhingradiya&theme=radical&repo=Portfolio-Calculator"
             width="49%" 
+            height="50%"
             alt="Portfolio Calculator" 
         />
     </a>
@@ -337,7 +335,7 @@
 <div align="center">
     <img src="./assets/borderseparator.gif" />
     <h6 align="center"> 
-        All rights reserved. Meet Bhingradiya © 2021 - 2024 | Readme from 
+        All rights reserved. Meet Bhingradiya © 2021 - 2025 | Readme from 
         <a href="https://github.com/godkingjay">Jarrian Gojar</a> 
     </h6>
 </div>
